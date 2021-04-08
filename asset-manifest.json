@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/filteringCardList/static/css/main.765db4c5.chunk.css",
+    "main.js": "/github.io/filteringCardList/static/js/main.af0b9022.chunk.js",
+    "main.js.map": "/github.io/filteringCardList/static/js/main.af0b9022.chunk.js.map",
+    "runtime-main.js": "/github.io/filteringCardList/static/js/runtime-main.ab42e50d.js",
+    "runtime-main.js.map": "/github.io/filteringCardList/static/js/runtime-main.ab42e50d.js.map",
+    "static/js/2.45f3ae6a.chunk.js": "/github.io/filteringCardList/static/js/2.45f3ae6a.chunk.js",
+    "static/js/2.45f3ae6a.chunk.js.map": "/github.io/filteringCardList/static/js/2.45f3ae6a.chunk.js.map",
+    "static/js/3.08123e62.chunk.js": "/github.io/filteringCardList/static/js/3.08123e62.chunk.js",
+    "static/js/3.08123e62.chunk.js.map": "/github.io/filteringCardList/static/js/3.08123e62.chunk.js.map",
+    "index.html": "/github.io/filteringCardList/index.html",
+    "static/css/main.765db4c5.chunk.css.map": "/github.io/filteringCardList/static/css/main.765db4c5.chunk.css.map",
+    "static/js/2.45f3ae6a.chunk.js.LICENSE.txt": "/github.io/filteringCardList/static/js/2.45f3ae6a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/github.io/filteringCardList/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab42e50d.js",
+    "static/js/2.45f3ae6a.chunk.js",
+    "static/css/main.765db4c5.chunk.css",
+    "static/js/main.af0b9022.chunk.js"
+  ]
+}
